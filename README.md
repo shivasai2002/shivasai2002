@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shiva Sai Kumar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"></h1>
 
-<h3 align="center">I'm just a passionate coder and a problemsolver.I am Currently pursuing B.Tech in Computer Science(AI & ML) at IARE, Hyderabad. Technology is what that revolutinizes the world and I always love to run among it . This is my Github Profile and am love to share my works here so that everyone can explore.</h3>
+<h3 align="center">I'm just a passionate coder and a problemsolver.I am Currently pursuing B.Tech in Computer Science(AI & ML) at IARE, Hyderabad. Technology is what that revolutionizes the world and I always love to run among it.And I believe more in Smartwork than Hardwork. This is my Github Profile thanks for being here and am love to share my works here so that everyone can explore.</h3>
 <br>
 
 ### Technologies and Frameworks I've worked with: 
