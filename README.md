@@ -25,7 +25,7 @@
 <a href="https://www.instagram.com/__shiva.s_/">
    <img align="left" alt="Shiva Sai Kumar | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
-<a href="https://twitter.com/Shivasa83121390">
+<a href="https://twitter.com/shivasaini2002">
     <img align="left" alt="Shiva Sai Kumar | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a> 
 
