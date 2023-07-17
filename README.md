@@ -30,7 +30,7 @@
 </a> 
 
 <br><br>
-## :rainbow: Have a great day, buddy!
+## 🍀: Have a great day, buddy!
 
 
 <!---
