@@ -30,7 +30,7 @@
 </a> 
 
 <br><br>
-## 🍀: Have a great day, buddy!
+## 🍀 Have a fantastic day, buddy, and good luck!
 
 
 <!---
