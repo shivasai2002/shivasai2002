@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Shiva Sai Kumar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"></h1>
 
-<h3 align="center">I'm just a passionate coder and a problemsolver.I am Currently pursuing B.Tech in Computer Science(AI & ML) at IARE, Hyderabad. Technology is what that revolutionizes the world and I always love to run among it.And I believe more in Smartwork than Hardwork. This is my Github Profile thanks for being here and am love to share my works here so that everyone can explore.</h3>
+<h3 align="center">I'm just a passionate coder and a problem solver. I am currently pursuing a B.Tech. in Computer Science(AI&ML) at IARE, Hyderabad. Technology is what revolutionizes the world, and I always love to run among it.And I believe more in smart work than hard work. This is my Github profile. Thanks for being here, and I love to share my work here so that everyone can explore.</h3>
 <br>
 
-### Technologies and Frameworks I've worked with: 
+### Technologies and Frameworks I've worked with:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/426196?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -12,7 +12,9 @@
 <code><img height="30" src="https://avatars.githubusercontent.com/u/276006?s=200&v=4"></code>
 <br><br>
 
-- 👀 I’m interested in Unity Game development,Machine learning and Artificial Intelligence,DataScience,Time series analysis,App development
+- 👀 I’m interested in Unity Game development,Machine learning and Artificial Intelligence,DataScience,Time series analysis
+- 🌐 Have a look at [My Website](https://shivasai2002.github.io/Portfolio/)
+- 🎧 I just love listening to music,playing games and surfing through the internet🤖
 - 😅  Pronouns: He/Him
 - ⚡️  Fun fact: I sit all the day in front of system😂 
 
