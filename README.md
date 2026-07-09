@@ -38,7 +38,7 @@ Passionate about building AI-powered solutions, intelligent agents, and enterpri
 ## 🔨 Notable Work
 
 - 🤖 **GenWizard RECON** – AI-powered mainframe modernization solution for COBOL analysis, ALM documentation, Wiki generation, and User Story creation.
-- 📊 **SAP Assessment Agents** – Enterprise AI agents for SAP Quality Engineering, RICEFW classification, system profiling, Test Strategy creation, Test Case generation, and Defect Analysis.Recognized by Accenture Leadership for key performance contributions.
+- 📊 **SAP Assessment Agents** – Enterprise AI agents for SAP Quality Engineering, RICEFW classification, system profiling, Test Strategy creation, Test Case generation, and Defect Analysis. Recognized by Accenture Leadership for key performance contributions.
 - 🔧 **AI Developer Productivity Solutions** – VS Code extensions with prompt management, cross-platform file handling, documentation generation, AI-assisted workflows leveraging GitHub Copilot, Claude, and enterprise LLMs.
 - 🧠 **Agentic AI Systems** – Multi-agent orchestration solutions for enterprise automation, knowledge transition, and intelligent decision support.
 - 🔒 **Vulnerability Remediation & Secure Delivery** – End-to-end JFrog Python vulnerability remediation, POAM documentation, and Python utility for authentication and authorization automation.
@@ -70,7 +70,7 @@ Passionate about building AI-powered solutions, intelligent agents, and enterpri
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Additional Experience
