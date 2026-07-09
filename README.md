@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=22&pause=1000&center=true&width=500&color=A100FF&font_weight=900&lines=Full+Stack+LLM+Development+Associate;GenAI+Engineer;Agentic+AI+Enthusiast;Building+AI-Powered+Enterprise+Solutions;Always+Learning.+Always+Building." />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=22&pause=1000&center=true&width=500&color=A100FF&font_weight=900&lines=Full+Stack+LLM+Development+Associate;GenAI+Engineer;Agentic+AI+Developer;Building+AI-Powered+Enterprise+Solutions;Always+Learning.+Always+Building." />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shiva Sai Kumar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"></h1>
 
 <h3 align="center">
-Full Stack LLM Development Associate | GenAI Engineer | Agentic AI Enthusiast
+Full Stack LLM Development Associate | GenAI Engineer | Agentic AI Developer
 </h3>
 
 <p align="center">
@@ -25,6 +25,7 @@ Passionate about building AI-powered solutions, intelligent agents, and enterpri
 ## 🚀 About Me
 
 - 💼 Currently working as a **Full Stack LLM Development Associate** at **Accenture**
+- 🎓 B.Tech in **Computer Science & Engineering (AI & ML)** — IARE, Hyderabad
 - 🤖 Building **LLM-powered applications, AI Agents, and GenAI solutions**
 - ☁️ Building and exploring **Azure AI, Agentic AI, and Enterprise AI Systems**
 - 🔍 Passionate about solving enterprise challenges through AI-driven automation
@@ -96,7 +97,6 @@ Passionate about building AI-powered solutions, intelligent agents, and enterpri
 Institute of Aeronautical Engineering, Hyderabad
 
 - 🎓 Reinvention with Agentic AI — Stanford HAI Powered Program
-- 🌱 Microsoft Azure AI Fundamentals (AI-900) – In Progress
 - 📚 Continuous Learning in Generative AI & Enterprise AI Systems
 
 ---
